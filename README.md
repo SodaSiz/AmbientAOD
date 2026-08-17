@@ -1,4 +1,4 @@
-cense: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # Pixel 9 Pro AOD Wallpaper Enabler (KernelSU / Magisk Module)
 
 An elegant, lightweight Runtime Resource Overlay (RRO) module designed for the Pixel 9 Pro to force-enable the hidden **"Show lock screen wallpaper on Always-On Display"** setting. 
