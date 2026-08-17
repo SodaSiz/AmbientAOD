@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	    <!-- Force l'activation du fond d'écran sur l'Always-On Display -->
+	    <bool name="config_dozeSupportsAodWallpaper">true</bool>
+</resources>
